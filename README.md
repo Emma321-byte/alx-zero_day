@@ -5,4 +5,4 @@ ___
 ##2. Creating a repository.
 ##3. Adding a new remote to your git repository.
 
-#updated through the terminal
+#updated through the terminal up_to_date
